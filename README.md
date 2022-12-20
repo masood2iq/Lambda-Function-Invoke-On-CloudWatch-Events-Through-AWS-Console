@@ -4,7 +4,7 @@
 Walkthrough on Lambda Function invoke on scheduling with CloudWatch Events configuration through AWS console
  
 ## Overview
-In this exercise, we will learn, how to create and invoke simple hello world `Lambda Function` with `CloudWatch Events` in regular intervals.
+In this exercise, we will learn, how to create and invoke simple python `Lambda Function` with `CloudWatch Events` in regular intervals.
 Here are the steps.
 
 ### Step - 1
