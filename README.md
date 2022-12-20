@@ -66,6 +66,8 @@ Further click on the log stream to view the detail logs.
 ![](./images/image1.png)
 
 
+As you can see every five minutes our function is invoked with a CloudWatch event.
+
 ### Step - 4
 ----
 Finally, we clean-up the resources so that we don’t incur any cost for that:
